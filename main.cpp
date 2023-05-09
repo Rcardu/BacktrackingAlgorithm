@@ -3,11 +3,15 @@
  */
 #include<iostream>
 #include"BacktrackingAlgorithm//Using1.cpp"
+#include"BacktrackingAlgorithm//Using2.cpp"
 
 int main(){
 
     //Combination_Format();
-    ThePhonenumberComFormat();
+    //ThePhonenumberComFormat();
+    //Combination2Format();
+    //Combination3Format();
+    SplitPalinForamt();
 
     
 
