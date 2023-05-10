@@ -2,6 +2,7 @@
 #include"BacktrackingAlgorithm//Using1.cpp"
 #include"BacktrackingAlgorithm//Using2.cpp"
 #include"BacktrackingAlgorithm//Using3.cpp"
+#include"BacktrackingAlgorithm//Using4.cpp"
 
 
 int main(){
@@ -14,7 +15,10 @@ int main(){
     //ResetIPConfigNumberFormat();
     //SubsetFormat();
     //IncrementTheSubsequenceFormat();
-    PermutationQuestionsFormat();
+    //PermutationQuestionsFormat();
+    //RescheduleFormat();
+    //NQueenQuestionFormat();
+    SolutionSudokuFormat();
 
     
 
